@@ -1,6 +1,6 @@
 # Relapse-Prediction
 
-From PAPER LINK
+From [Computational flow cytometry immunophenotyping at diagnosis is unable to predict relapse in childhood B-cell Acute Lymphoblastic Leukemia](https://doi.org/10.1016/j.compbiomed.2025.109831)
 
 This set of tools were produced for a study on relapse prediction in childhood leukemia with flow cytometry data. The code is structured according to a specific workflow that can be consulted in the paper linked above, but it is general enough to be applied to any other disease for relapse prediction task (or other outcomes of interest)
 
